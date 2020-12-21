@@ -15,6 +15,12 @@ Paragraha xxx. xxx xxx xxx.
 Some other sentences.
 ```
 
+I think 
+
+```latex
+Paragraha xxx. xxx xxx xxx. \iffalse UUID. \fi Some other sentence.
+```
+is the best.
 
 
 https://github.com/dangom/org-thesis might be a good start. But I am assure the jumping would work. This is the advantage using latex directly editting a document.
